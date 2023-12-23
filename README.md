@@ -10,4 +10,5 @@ OpenCV is built to provide a common infrastructure for computer vision applicati
 ### OpenCV for Machine Learning ###
 OpenCV is a bunch of stuff mainly dealing with processing images and videos on your computer. This is a standard library for Computer Vision for Python tasks.
 
+---
 In this repository we will design a simple project to detect face using python and openCV.
