@@ -1,4 +1,4 @@
-# Computer_Vision-Face_detection
+# Computer_Vision-live_Face_detection
 ### What is Computer Vision? ###
 Humans have no problem identifying objects and the environment around them. However, it is not so easy for computers to identify and distinguish between the various models, visuals, images and objects in the environment. This is where computer vision comes in handy.
 In the simplest terms, computer vision is the discipline in a broad field of Machine Learning that teaches machines to see. Its objective is to extract meaning from pixels.
